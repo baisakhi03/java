@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: darkblue;
+}
+.container{
+    background-color: rgb(168, 145, 196);
+}
+.p{
+    text-align: center;
+    color: darkslateblue;
+}
+h4{
+    color: darkslategrey;
+    text-align: center;
+}
+#home{
+    text-align:center;
+  text-transform: capitalize;
+  color: brown;
+}
+.img{
+    height: 1200px;
+    width: 1200px;
+}
+#customerServices{
+    color: rgb(65, 37, 3);
+  text-decoration: underline;
+}
+
+#info{
+    text-align:right;
+    border: 1px solid black;
+    background-color: grey;
+ 
+}
+.b{
+    background-color: rgb(198, 198, 241);
+}
